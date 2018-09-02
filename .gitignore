@@ -1,0 +1,26 @@
+
+# Created by https://www.gitignore.io/api/codeblocks,executable
+
+### CodeBlocks ###
+# specific to CodeBlocks IDE
+*.layout
+*.depend
+
+# generated directories
+bin/
+obj/
+
+### Executable ###
+*.app
+*.bat
+*.cgi
+*.com
+*.exe
+*.gadget
+*.jar
+*.pif
+*.vb
+*.wsf
+
+
+# End of https://www.gitignore.io/api/codeblocks,executable
