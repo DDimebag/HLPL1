@@ -1,0 +1,311 @@
+a code block that runs multiple times. 
+
+1. Write a program to display the first 10 natural numbers.
+Expected Output :
+1 2 3 4 5 6 7 8 9 10
+
+
+2. Write a program to find the sum of first 10 natural numbers.
+Expected Output :
+The first 10 natural number is :
+1 2 3 4 5 6 7 8 9 10
+The Sum is : 55
+
+
+3. Write a program to display n terms of natural number and their sum.
+Test Data : 7
+Expected Output :
+The first 7 natural number is :
+1 2 3 4 5 6 7
+The Sum of Natural Number upto 7 terms : 28
+
+
+4. Write a program to read 10 numbers from keyboard and find their sum and average.
+Test Data :
+Input the 10 numbers :
+Number-1 :2
+...
+Number-10 :2
+Expected Output :
+The sum of 10 no is : 55
+The Average is : 5.500000
+
+
+5. Write a program to display the cube of the number upto given an integer.
+Test Data :
+Input number of terms : 5
+Expected Output :
+Number is : 1 and cube of the 1 is :1
+Number is : 2 and cube of the 2 is :8
+Number is : 3 and cube of the 3 is :27
+Number is : 4 and cube of the 4 is :64
+Number is : 5 and cube of the 5 is :125
+
+
+6. Write a program to display the multiplication table of a given integer.
+Test Data :
+Input the number (Table to be calculated) : 15
+Expected Output :
+15 X 1 = 15
+...
+...
+15 X 10 = 150
+
+
+7. Write a program to display the n terms of odd natural number and their sum.
+Test Data
+Input number of terms : 10
+Expected Output :
+The odd numbers are :1 3 5 7 9 11 13 15 17 19
+The Sum of odd Natural Number upto 10 terms : 100
+
+
+8. Write a program to calculate the factorial of a given number.
+Test Data :
+Input the number : 5
+Expected Output :
+The Factorial of 5 is: 120
+
+
+9. Write a program to display the n terms of even natural number and their sum.
+Test Data :
+Input number of terms : 5
+Expected Output :
+The even numbers are :2 4 6 8 10
+The Sum of even Natural Number upto 5 terms : 30
+
+
+10. Write a program to display the n terms of harmonic series and their sum.
+1 + 1/2 + 1/3 + 1/4 + 1/5 ... 1/n terms
+Test Data :
+Input the number of terms : 5
+Expected Output :
+1/1 + 1/2 + 1/3 + 1/4 + 1/5 +
+Sum of Series upto 5 terms : 2.283334
+
+
+11. Write a program to check whether a given number is a perfect number or not.
+Test Data :
+Input the number : 56
+Expected Output :
+The positive divisor : 1 2 4 7 8 14 28
+The sum of the divisor is : 64
+So, the number is not perfect.
+
+
+12. Write a program in C to display the sum of the series [ 9 + 99 + 999 + 9999 ...].
+Test Data :
+Input the number of terms :5
+Expected Output :
+9 99 999 9999 99999
+The sum of the series = 111105
+
+
+13. Write a program in C to display the n terms of square natural number and their sum.
+1 4 9 16 ... n Terms
+Test Data :
+Input the number of terms : 5
+Expected Output :
+The square natural upto 5 terms are :1 4 9 16 25
+The Sum of Square Natural Number upto 5 terms = 55
+
+
+14. Write a program to check whether a given number is an armstrong number or not.
+Test Data :
+Input a number: 153
+Expected Output :
+153 is an Armstrong number.
+
+
+
+22. Write a program in C to print the Floyd's Triangle. Go to the editor
+
+1 
+01
+101 
+0101 
+10101
+
+Click me to see the solution
+
+
+
+
+
+
+28. Write a c program to find the perfect numbers within a given number of range. Go to the editor
+Test Data :
+Input the starting range or number : 1
+Input the ending range of number : 50
+Expected Output :
+The Perfect numbers within the given range : 6 28
+Click me to see the solution
+
+
+
+30. Write a C program to find the Armstrong number for a given range of number. Go to the editor
+Test Data :
+Input starting number of range: 1
+Input ending number of range : 1000
+Expected Output :
+Armstrong numbers in given range are: 1 153 370 371 407
+Click me to see the solution
+
+
+
+34. Write a program in C to find the prime numbers within a range of numbers. Go to the editor
+Test Data :
+Input starting number of range: 1
+Input ending number of range : 50
+Expected Output :
+The prime number between 1 and 50 are :
+2 3 5 7 11 13 17 19 23 29 31 37 41 43 47
+Click me to see the solution
+
+35. Write a program in C to display the first n terms of Fibonacci series. Go to the editor
+Fibonacci series 0 1 2 3 5 8 13 .....
+Test Data :
+Input number of terms to display : 10
+Expected Output :
+Here is the Fibonacci series upto to 10 terms :
+0 1 1 2 3 5 8 13 21 34
+Click me to see the solution
+
+
+
+37. Write a program in C to display the number in reverse order. Go to the editor
+Test Data :
+Input a number: 12345
+Expected Output :
+The number in reverse order is : 54321
+Click me to see the solution
+
+38. Write a program in C to check whether a number is a palindrome or not. Go to the editor
+Test Data :
+Input a number: 121
+Expected Output :
+121 is a palindrome number.
+Click me to see the solution
+
+39. Write a program in C to find the number and sum of all integer between 100 and 200 which are divisible by 9. Go to the editor
+Expected Output :
+Numbers between 100 and 200, divisible by 9 :
+108 117 126 135 144 153 162 171 180 189 198
+The sum : 1683
+Click me to see the solution
+
+
+
+41. Write a program in C to convert a decimal number into binary without using an array. Go to the editor
+Test Data :
+Enter a number to convert : 25
+Expected Output :
+The Binary of 25 is 11001.
+Click me to see the solution
+
+42. Write a program in C to convert a binary number into a decimal number without using array, function and while loop. Go to the editor
+Test Data :
+Input a binary number :1010101
+Expected Output :
+The Binary Number : 1010101
+The equivalent Decimal Number : 85
+Click me to see the solution
+
+43. Write a C program to find HCF (Highest Common Factor) of two numbers. Go to the editor
+Test Data :
+Input 1st number for HCF: 24
+Input 2nd number for HCF: 28
+Expected Output :
+HCF of 24 and 28 is : 4
+Click me to see the solution
+
+44. Write a program in C to find LCM of any two numbers using HCF. Go to the editor
+Test Data :
+Input 1st number for LCM: 15
+Input 2nd number for LCM: 20
+Expected Output :
+The LCM of 15 and 20 is : 60
+Click me to see the solution
+
+45. Write a program in C to find LCM of any two numbers. Go to the editor
+Test Data :
+Input 1st number for LCM: 15
+Input 2nd number for LCM: 20
+Expected Output :
+The LCM of 15 and 20 is : 60
+Click me to see the solution
+
+46. Write a program in C to convert a binary number into a decimal number using math function. Go to the editor
+Test Data :
+Input the binary number :1010100
+Expected Output :
+The Binary Number : 1010100
+The equivalent Decimal Number is : 84
+Click me to see the solution
+
+47. Write a C program to check whether a number is a Strong Number or not. Go to the editor
+Test Data :
+Input a number to check whether it is Strong number: 15
+Expected Output :
+15 is not a Strong number.
+Click me to see the solution
+
+48. Write a C program to find Strong Numbers within a range of numbers. Go to the editor
+Test Data :
+Input starting range of number : 1
+Input ending range of number: 200
+Expected Output :
+The Strong numbers are :
+1 2 145
+Click me to see the solution
+
+49. Write a c program to find out the sum of an A.P. series. Go to the editor
+Test Data :
+Input the starting number of the A.P. series: 1
+Input the number of items for the A.P. series: 10
+Input the common difference of A.P. series: 4
+Expected Output :
+The Sum of the A.P. series are :
+1 + 5 + 9 + 13 + 17 + 21 + 25 + 29 + 33 + 37 = 190
+Click me to see the solution
+
+
+
+
+52. Write a program in c to find the Sum of GP series. Go to the editor
+Test Data :
+Input the first number of the G.P. series: 3
+Input the number or terms in the G.P. series: 5
+Input the common ratio of G.P. series: 2
+Expected Output :
+The numbers for the G.P. series:
+3.000000 6.000000 12.000000 24.000000 48.000000
+The Sum of the G.P. series : 93.000000
+Click me to see the solution
+
+
+
+
+
+55. Write a program in C to convert a decimal number to hexadecimal. Go to the editor
+Test Data :
+Input any Decimal number: 79
+Expected Output :
+The equivalent Hexadecimal Number : 4F
+Click me to see the solution
+
+56. Write a program in C to Check Whether a Number can be Express as Sum of Two Prime Numbers. Go to the editor
+Test Data :
+Input a positive integer: 16
+Expected Output :
+16 = 3 + 13
+16 = 5 + 11
+Click me to see the solution
+
+
+59. Write a program in C to check Armstrong number of n digits. Go to the editor
+Test Data :
+Input an integer : 1634
+Expected Output :
+1634 is an Armstrong number
+Click me to see the solution
